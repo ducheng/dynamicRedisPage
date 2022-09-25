@@ -6,4 +6,4 @@
 - 作者:cheng.du
 
 
-[开始使用 Let Go](../introduce/introduce.md)
+[开始使用 Let Go](/README.md)
